@@ -5,7 +5,7 @@ export default function Appointments() {
     <div className="page">
       <Navbar />
       <img className="fullscreen" src="/metalbackground.jpg" />
-      <main className="appointments page">Your promoted</main>
+      <main className="appointments">Your promoted</main>
     </div>
   )
 }
